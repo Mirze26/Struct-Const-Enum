@@ -1,0 +1,15 @@
+C:\Users\Mirze\Desktop\HomeTask\HomeWorkCalculate\HomeWorkCalculate\bin\Debug\net6.0\HomeWorkCalculate.exe
+C:\Users\Mirze\Desktop\HomeTask\HomeWorkCalculate\HomeWorkCalculate\bin\Debug\net6.0\HomeWorkCalculate.deps.json
+C:\Users\Mirze\Desktop\HomeTask\HomeWorkCalculate\HomeWorkCalculate\bin\Debug\net6.0\HomeWorkCalculate.runtimeconfig.json
+C:\Users\Mirze\Desktop\HomeTask\HomeWorkCalculate\HomeWorkCalculate\bin\Debug\net6.0\HomeWorkCalculate.dll
+C:\Users\Mirze\Desktop\HomeTask\HomeWorkCalculate\HomeWorkCalculate\bin\Debug\net6.0\HomeWorkCalculate.pdb
+C:\Users\Mirze\Desktop\HomeTask\HomeWorkCalculate\HomeWorkCalculate\obj\Debug\net6.0\HomeWorkCalculate.csproj.AssemblyReference.cache
+C:\Users\Mirze\Desktop\HomeTask\HomeWorkCalculate\HomeWorkCalculate\obj\Debug\net6.0\HomeWorkCalculate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mirze\Desktop\HomeTask\HomeWorkCalculate\HomeWorkCalculate\obj\Debug\net6.0\HomeWorkCalculate.AssemblyInfoInputs.cache
+C:\Users\Mirze\Desktop\HomeTask\HomeWorkCalculate\HomeWorkCalculate\obj\Debug\net6.0\HomeWorkCalculate.AssemblyInfo.cs
+C:\Users\Mirze\Desktop\HomeTask\HomeWorkCalculate\HomeWorkCalculate\obj\Debug\net6.0\HomeWorkCalculate.csproj.CoreCompileInputs.cache
+C:\Users\Mirze\Desktop\HomeTask\HomeWorkCalculate\HomeWorkCalculate\obj\Debug\net6.0\HomeWorkCalculate.dll
+C:\Users\Mirze\Desktop\HomeTask\HomeWorkCalculate\HomeWorkCalculate\obj\Debug\net6.0\refint\HomeWorkCalculate.dll
+C:\Users\Mirze\Desktop\HomeTask\HomeWorkCalculate\HomeWorkCalculate\obj\Debug\net6.0\HomeWorkCalculate.pdb
+C:\Users\Mirze\Desktop\HomeTask\HomeWorkCalculate\HomeWorkCalculate\obj\Debug\net6.0\HomeWorkCalculate.genruntimeconfig.cache
+C:\Users\Mirze\Desktop\HomeTask\HomeWorkCalculate\HomeWorkCalculate\obj\Debug\net6.0\ref\HomeWorkCalculate.dll
